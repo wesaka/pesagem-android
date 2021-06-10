@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Pesagem Android</string>
+    <string name="title_register">Cadastrar</string>
+    <string name="title_query">Consultar</string>
+    <string name="hint_tag">Número do Brinco</string>
+    <string name="hint_weight">Peso</string>
+    <string name="hint_date">Data da Pesagem</string>
+    <string name="hint_observation">Observação</string>
+    <string name="button_text_ok">Confirmar</string>
+</resources>
